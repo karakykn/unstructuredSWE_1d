@@ -1,6 +1,7 @@
 Author: Ismet Karakan
+contact: karakan@sc.edu
 
-This code solves 1D Shallow water equation with finite volume method.
+This code solves 1D Shallow water equation with finite volume method on unstructured grid.
 
 1dDambreak is a tutorial case for the code.
 
