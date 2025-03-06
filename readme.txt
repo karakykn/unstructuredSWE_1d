@@ -1,7 +1,7 @@
 Author: Ismet Karakan
 contact: karakan@sc.edu
 
-Feel free to contact for 2D model unstructured model.
+Feel free to contact for 2D unstructured model.
 
 This code solves 1D Shallow water equation with finite volume method on unstructured grid.
 
